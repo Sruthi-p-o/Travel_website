@@ -1,0 +1,32 @@
+.body{
+    background-color: #101010;
+    }
+.btn1{
+    display: inline-block;
+    background-color: #fc0050;
+    font-size: 27px;
+    font-weight: 600px;
+    border: 2px solid transparent;
+    border-radius: 60px;
+    width: 200px;
+    cursor: pointer;
+    transition: ease 0.30s;
+}
+.btn1:hover{
+    border: 2px solid #fc0050;
+    background-color: transparent;
+    transform: scale(1.1);
+}
+.head{
+    font-size: 35px;
+    font-weight: 500;
+    margin-top: 20px;
+    color: #fc0050;
+}
+span{
+    color: #fc0050;
+}
+label{
+    color: white;
+    font-size: 15px;
+}

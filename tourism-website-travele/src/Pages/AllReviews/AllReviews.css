@@ -1,0 +1,20 @@
+
+.crd{
+    background-color: aqua;
+}
+.text1{
+    color: rgb(2, 2, 2);
+    font-size: 1.5em;
+    font-weight: bold;
+}
+
+.text2{
+    color: rgb(2, 2, 2);
+    font-size: 1.3em;
+    font-style: italic;
+}
+
+.filled {
+    color: #fc0050;
+    font-size: 1.5em; 
+  }

@@ -1,0 +1,24 @@
+.instruction-icon {
+    position: relative;
+  }
+  
+  .instruction-text {
+    display: none;
+    position: absolute;
+    top: 100%;
+    left: 50%;
+    transform: translate(-50%, 5px);
+    background-color: #fff;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 5px;
+  }
+  
+  .instruction-icon:hover .instruction-text {
+    display: block;
+  }
+  
+
+  .text3{
+    color: rgb(0, 0, 0);
+  }

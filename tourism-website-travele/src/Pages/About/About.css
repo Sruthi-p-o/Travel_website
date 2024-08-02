@@ -1,0 +1,20 @@
+label{
+    color: white;
+    font-size: 20px;
+}
+.aboutbody{
+    background-color: #191919;
+}
+
+
+.text {
+    font-size: 20px;
+    color: white;
+    margin-bottom: 20px;
+    letter-spacing: 1px;
+}
+
+.span{
+    color: #fc0050;
+    letter-spacing: 1px;
+}
