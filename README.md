@@ -1,47 +1,75 @@
-# FrontEnd-Travel-React-Capstone-Project
-Description:
+# FrontEnd-Travel-React-Project
+# 🌍 Travel & Tourism Website – React Capstone Project
 
-This is a frontend capstone project built with React.js that showcases a modern Travel & Tourism Website. The application highlights various tourist destinations, tour packages, and booking options in an interactive and visually appealing format.
+This is a frontend capstone project developed using **React.js**, showcasing a dynamic and responsive **Travel & Tourism platform**. It simulates a modern website where users can explore travel destinations, tour packages, and other travel-related features.
 
-Features:
+---
 
-Home page with attractive travel banners
+## ✨ Features
 
-Destination cards with images and brief descriptions
+- ✅ **Homepage**: Eye-catching landing page with travel banners, promotional content, and quick navigation links.
+- 🗺️ **Destinations Section**: Displays popular destinations with beautiful images, names, and short descriptions.
+- 📦 **Packages Section**: Showcases various travel packages with details like duration, price, and features.
+- 🔀 **Navigation**: Smooth routing between pages using React Router.
+- 📱 **Responsive Design**: Works seamlessly across devices—mobile, tablet, and desktop.
 
-Tour package listings with pricing
+---
 
-Navigation between pages using React Router
+## 🎯 Project Objective
 
-Responsive design for mobile and desktop
+The primary objective of this project is to demonstrate front-end development skills using **React**, including:
 
-Integration-ready layout for backend services (e.g., booking, contact forms)
+- Component-based design
+- State management
+- Routing and navigation
+- Styling using CSS
+- Responsive layouts
 
-Tech Stack:
+---
 
-React JS
+## 💻 Expected Output
 
-HTML5, CSS3
+When the project is run successfully, the user can:
 
-JavaScript (ES6+)
+- View a homepage with an engaging welcome message and images.
+- Browse a list of destinations (e.g., Paris, Dubai, Maldives) with pictures and brief details.
+- View detailed tour packages with duration, pricing, and "Book Now" or "Explore" options.
+- Navigate between components like **Home**, **Packages**, and **Contact/About**.
+- Experience clean animations, smooth transitions, and a visually appealing UI.
 
-React Router
+---
 
-[Optionally add: Tailwind CSS / Bootstrap if used]
+## 🛠 Tech Stack Used
 
-How to Run the Project:
+- ⚛️ React JS
+- 🔀 React Router DOM
+- 🎨 HTML5 & CSS3
+- 🧠 JavaScript (ES6+)
+- [Optionally add Bootstrap or Tailwind if used]
 
-Clone the repository or unzip the folder.
+---
 
-Open terminal in the project directory.
+## 🚀 How to Run the Project
 
-Run:
+1. Clone or download the repository:
+   ```bash
+   git clone https://github.com/Sruthi-p-o/Travel_website.git
+2.Navigate to the project folder:
+
+bash
+Copy
+Edit
+cd Travel_website
+3.Install dependencies:
 
 bash
 Copy
 Edit
 npm install
-npm start
-Visit http://localhost:3000 to view the app.
+4.Start the development server:
 
- 
+bash
+Copy
+Edit
+npm start
+5.Open your browser and go to http://localhost:3000
